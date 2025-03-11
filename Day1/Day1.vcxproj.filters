@@ -27,7 +27,7 @@
     <ClCompile Include="printf1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="value.c">
+    <ClCompile Include="value1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="value2.c">
@@ -37,6 +37,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="value4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="value6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

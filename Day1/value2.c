@@ -10,7 +10,7 @@ int value2()
 	printf("num: %d\n", num);
 	num = -1;
 	printf("num: %d\n", num);
-	printf("num: %u\n", num);
+	printf("num: %u", num);
 
 	return 0;
 }

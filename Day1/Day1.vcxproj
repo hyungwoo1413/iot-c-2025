@@ -19,13 +19,20 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.c" />
+    <ClCompile Include="HelloWorld.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="name.c" />
     <ClCompile Include="printf1.c" />
-    <ClCompile Include="value.c" />
+    <ClCompile Include="scanf1.c" />
+    <ClCompile Include="scanf2.c" />
+    <ClCompile Include="scanf3.c" />
+    <ClCompile Include="value1.c" />
     <ClCompile Include="value2.c" />
     <ClCompile Include="value3.c" />
     <ClCompile Include="value4.c" />
+    <ClCompile Include="value5.c" />
+    <ClCompile Include="value6.c" />
     <ClCompile Include="_main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
