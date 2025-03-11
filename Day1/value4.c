@@ -1,18 +1,18 @@
-/* ¹è¿­
-	µ¿ÀÏÇÑ ÀÚ·áÇüÀ» ¿¬¼ÓÀûÀ¸·Î ÀúÀåÇÒ ¼ö ÀÖ´Â °ø°£
+ï»¿/* ë°°ì—´
+	ë™ì¼í•œ ìë£Œí˜•ì„ ì—°ì†ì ìœ¼ë¡œ ì €ì¥í•  ìˆ˜ ìˆëŠ” ê³µê°„
 */
 
 # include <stdio.h>
 
 int value4()
 {
-	char str[10] = "banana";  // ¹®ÀÚÅ¸ÀÔ ¹è¿­¼±¾ğ
+	char str[10] = "banana";  // ë¬¸ìíƒ€ì… ë°°ì—´ì„ ì–¸
 
 	printf("str: %s\n", str);
 	printf("str[0]: %c\n", str[0]);
 	printf("str[1]: %c\n", str[1]);
 	printf("str[5]: %c\n", str[5]);
-	// printf("str[6]: %c\n", str[6]);  // ¹®ÀÚ¿­ ³¡¿¡´Â null¹®ÀÚ°¡ ¿Â´Ù
+	// printf("str[6]: %c\n", str[6]);  // ë¬¸ìì—´ ëì—ëŠ” nullë¬¸ìê°€ ì˜¨ë‹¤
 	
 	char str2[6] = "apple";
 	printf("str2: %s\n", str2);

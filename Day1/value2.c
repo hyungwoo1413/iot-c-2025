@@ -1,8 +1,8 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int value2()
 {
-	char ch = 0;  // -128 ~ 127  // signed °¡ »ı·«µÊ
+	char ch = 0;  // -128 ~ 127  // signed ê°€ ìƒëµë¨
 	unsigned char ch2 = 0;  // 0 ~ 255
 
 	unsigned int num;

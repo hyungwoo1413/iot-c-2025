@@ -1,4 +1,4 @@
-/* »ó¼ö */
+ï»¿/* ìƒìˆ˜ */
 #include <stdio.h>
 
 int value6() 
@@ -10,7 +10,7 @@ int value6()
 	double *dp = &pi;
 	*dp = 4.0;
 
-	printf("¿øµÑ·¹: %.2lf\n", cf);
+	printf("ì›ë‘˜ë ˆ: %.2lf\n", cf);
 	printf("pi: %.2lf", pi);
 
 	return 0;
