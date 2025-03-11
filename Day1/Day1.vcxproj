@@ -25,6 +25,7 @@
     <ClCompile Include="value.c" />
     <ClCompile Include="value2.c" />
     <ClCompile Include="value3.c" />
+    <ClCompile Include="value4.c" />
     <ClCompile Include="_main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

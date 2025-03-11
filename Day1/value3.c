@@ -4,6 +4,6 @@ int value3()
 {
 	char str[10] = "banana";
 
-	printf("str: %s", str);
+	printf("str: %s\n", str);
 	return 0;
 }
