@@ -1,8 +1,8 @@
-#include <stdio.h>	// Çì´õÆÄÀÏ
+ï»¿#include <stdio.h>	// í—¤ë”íŒŒì¼
 
-int HelloWorld()			// ÇÔ¼ö: ÀÌ¸§ µÚ¿¡ °ıÈ£°¡ ÀÖÀ¸¸é ¹«Á¶°Ç ÇÔ¼ö´Ù.
+int HelloWorld()			// í•¨ìˆ˜: ì´ë¦„ ë’¤ì— ê´„í˜¸ê°€ ìˆìœ¼ë©´ ë¬´ì¡°ê±´ í•¨ìˆ˜ë‹¤.
 {
-	printf("Hello World!!!");	// ÇÔ¼öÈ£Ãâ
+	printf("Hello World!!!");	// í•¨ìˆ˜í˜¸ì¶œ
 
-	return 0; // ÁÖ¼®
+	return 0; // ì£¼ì„
 }
