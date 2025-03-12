@@ -27,6 +27,7 @@
     <ClCompile Include="scanf1.c" />
     <ClCompile Include="scanf2.c" />
     <ClCompile Include="scanf3.c" />
+    <ClCompile Include="scanf4.c" />
     <ClCompile Include="value1.c" />
     <ClCompile Include="value2.c" />
     <ClCompile Include="value3.c" />

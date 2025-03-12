@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 void main() {
 	printf("\n-----------------------------------[HelloWorld]\n");
@@ -25,4 +25,7 @@ void main() {
 	scanf2();
 	printf("\n-----------------------------------[scanf3]\n");
 	scanf3();
+	printf("\n-----------------------------------[scanf3]\n");
+	scanf4();
+	printf("\n-----------------------------------[scanf4]\n");
 }

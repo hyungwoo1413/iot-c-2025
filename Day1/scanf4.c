@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-int scanf3() {
+int scanf4() {
 	int age;
 	char name[20];
 
