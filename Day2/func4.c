@@ -20,6 +20,7 @@ int main() {
 		printf("두번째: ");
 		scanf_s("%d", &num2);
 		getchar();
+
 		printf("연산자를 입력하세요(+, -, *, /): ");
 		scanf_s("%c", &s, sizeof(s));
 		getchar();
